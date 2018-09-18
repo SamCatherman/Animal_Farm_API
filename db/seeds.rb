@@ -28,4 +28,4 @@ Animal.create(name: "Boxer", species: "Horse", farm_id: 4, img: "https://www.car
 Animal.create(name: "Benjamin", species: "Donkey", farm_id: 5, img:"https://upload.wikimedia.org/wikipedia/commons/7/7b/Donkey_1_arp_750px.jpg")
 Animal.create(name: "Muriel", species: "Goat", farm_id: 3, img: "https://s.newsweek.com/sites/www.newsweek.com/files/styles/lg/public/2018/08/28/828goat.jpg")
 Animal.create(name: "Moses", species: "Raven", farm_id: 2, img: "https://i.pinimg.com/originals/84/1a/40/841a40f5855653f485ba1d985f84b1f3.jpg")
-Animal.create(name: "Kitty", species: "Cat", farm_id: 6, img: "https://i.ytimg.com/vi/YCaGYUIfdy4/maxresdefault.jpg")
+Animal.create(name: "Kitty", species: "Cat", farm_id: 5, img: "https://i.ytimg.com/vi/YCaGYUIfdy4/maxresdefault.jpg")
