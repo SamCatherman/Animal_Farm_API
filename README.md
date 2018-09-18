@@ -1,4 +1,4 @@
-Rails Backend loosely based on the allegorical novella by George Orwell, 'Animal Farm.' Useful for practicing Fetch, DOM Manipulation, Events etc. As of now, API is read-only. POST, PATCH, DELETE actions coming soon! 
+Rails Backend loosely based on the novella by George Orwell, 'Animal Farm.' Useful for practicing Fetch, DOM Manipulation, Events etc. As of now, API is read-only. POST, PATCH, DELETE actions coming soon! 
 
 To start locally: 
   ```
