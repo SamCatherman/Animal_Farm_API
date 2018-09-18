@@ -8,4 +8,7 @@ To start:
      building out the front-end with React!) 
   ```
      
+     
+view live @ https://animal-farm-api.herokuapp.com/ => default route is ```'/animals'```, with additional routes to ```/animals/:id, /farms, /farms/:id, /farmers, /farmers/:id```
+
 Thanks!
