@@ -7,8 +7,8 @@ To start locally:
      $ bundle install
      $ rails db:drop db:create db:migrate db:seed
      $ rails s ** -p 3001 ** 
-     (add the last two arguments if you wish to run the API on a different port - which you may if you plan on        
-     building out the front-end with React!) 
+     (add the last two arguments if you wish to run the API on a different port - which you may if you plan 
+     on building out the front-end with React!) 
   ```
      
      
