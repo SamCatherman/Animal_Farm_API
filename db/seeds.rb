@@ -6,7 +6,7 @@
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
 
-Farmer.create(name: "Mr. Jones", img:"https://statici.behindthevoiceactors.com/behindthevoiceactors/_img/chars/mr-jones-animal-farm-1954-1.1.jpg")
+Farmer.create(name: "Mr. Jones", img:"http://giacomopuccinni.weebly.com/uploads/4/7/8/5/4785156/4398256.png")
 Farmer.create(name: "Mr. Frederick", img:"https://6469da.medialib.edu.glogster.com/g3ujQPCq1zwu2TG5JCb7/media/91/917790debdee8fdf2f7064dc592c414f0632f21f/mr-pilkington.jpg")
 Farmer.create(name: "Mr. Pilkington", img:"https://tse2.mm.bing.net/th?id=OIP.3ef8QZ0pkHMCiAoR1jLvYgHaFg")
 Farmer.create(name: "Mr. Whymper", img:"https://vignette.wikia.nocookie.net/animal-farm-character/images/5/51/Napoleon-and-Mr-Whymper.jpg")
