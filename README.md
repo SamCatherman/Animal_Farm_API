@@ -13,10 +13,10 @@ To start locally, first make sure you have `Ruby` and `Rails` installed. Open yo
   ```
 These commands will copy this repository to your machine, enter into the API's root directory, install all necessary dependencies, create, migrate and seed the database, and start the server so you can start sending requests!
 
-If you encounter a ruby version error, simply enter `ruby -v` in your terminal. This will tell you which version of ruby you currently have installed. Open the project's `Gemfile` and update the API's ruby version to the one currently installed on your machine. 
+If you encounter a ruby version error, simply enter `ruby -v` in your terminal. This will tell you which version of ruby you currently have installed. Open the project's `Gemfile` and update the API's ruby version to match the one currently installed on your machine. 
 
 You can also pratice adding controller actions, validations, routes and new models to make the API more interesting. 
      
-If you simply wish to practice fetching data and building a front-end, you can find live version @ https://animal-farm-api.herokuapp.com/ 
+If you simply wish to practice fetching data and building out a front-end, you can find live version @ https://animal-farm-api.herokuapp.com/ 
 
 The default route is ```'/animals'```, with additional routes to ```/animals/:id, /farms, /farms/:id, /farmers, and /farmers/:id```
