@@ -1,7 +1,7 @@
 class FarmsController < ApplicationController
   def index
     @farms = Farm.all
-    render json: @farms.to_json
+    render json: @farms
   end
 
   def show
