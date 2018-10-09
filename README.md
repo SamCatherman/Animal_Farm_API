@@ -2,7 +2,7 @@ Rails Backend loosely based on the novella by George Orwell, 'Animal Farm.' Usef
 
 
 ## Running Locally: 
-To start locally, first make sure you have `Ruby` and `Rails` installed. You can check by entering `ruby -v` and `rails -v` in your terminal. If you don't have either installed, see [here](https://www.ruby-lang.org/en/documentation/installation/) and [here](https://guides.rubyonrails.org/v5.0/getting_started.html#installing-rails). This API runs on a Postgres Database - to install visit [here(mac)](https://wiki.postgresql.org/wiki/Homebrew) or [here(windows)](https://www.postgresql.org/download/windows/). Once you have ruby and rails, and postgres installed, run the following commands:
+To start locally, first make sure you have `Ruby` and `Rails` installed. You can check by entering `ruby -v` and `rails -v` in your terminal. If you don't have either installed, see [here](https://www.ruby-lang.org/en/documentation/installation/) and [here](https://guides.rubyonrails.org/v5.0/getting_started.html#installing-rails). This API runs on a Postgres Database - to install visit [here(mac)](https://wiki.postgresql.org/wiki/Homebrew) or [here(windows)](https://www.postgresql.org/download/windows/). Once you have ruby, rails, and postgres installed, run the following commands:
 
 ```
    $ git clone git@github.com:SamCatherman/Animal_Farm_API.git
