@@ -1,4 +1,10 @@
-Rails Backend loosely based on the novella by George Orwell, 'Animal Farm.' Useful for practicing Fetch, DOM Manipulation, Events etc. As of now, API is read-only. POST, PATCH, DELETE actions coming soon!
+Rails API loosely based on the novella by George Orwell, 'Animal Farm.' Useful for practicing Fetch, DOM Manipulation, Events etc. As of now, API is read-only. POST, PATCH, DELETE actions coming soon!
+
+## Routes
+The default endpoint is `'/animals'`, with additional routes to `/animals/:id`, `/farms`, `/farms/:id`, `/farmers`, and `/farmers/:id`
+
+## To View Live: 
+If you simply wish to practice fetching data and building out a front-end, you can find live version @ https://animal-farm-api.herokuapp.com/
 
 
 ## To Run Locally: 
@@ -23,11 +29,3 @@ These commands will copy this repository to your machine, enter into the API's r
 If you encounter a ruby version error, simply enter `ruby -v` in your terminal. This will tell you which version of ruby you currently have installed. Open the project's `Gemfile` and update the API's ruby version to match the one currently installed on your machine.
 
 You can also pratice adding controller actions, validations, routes and new models to make the API more interesting.
-
-
-## To View Live: 
-If you simply wish to practice fetching data and building out a front-end, you can find live version @ https://animal-farm-api.herokuapp.com/
-
-
-## Routes
-The default route is `'/animals'`, with additional routes to `/animals/:id`, `/farms`, `/farms/:id`, `/farmers`, and `/farmers/:id`
