@@ -1,5 +1,7 @@
 Rails API loosely based on the novella by George Orwell, 'Animal Farm.' Useful for practicing Fetch, DOM Manipulation, Events etc. As of now, API is read-only. POST, PATCH, DELETE actions coming soon!
 
+🚜 🐷 🐗 👩‍🌾 🐮 
+
 ## Routes
 The default endpoint is `'/animals'`, with additional routes to `/animals/:id`, `/farms`, `/farms/:id`, `/farmers`, and `/farmers/:id`
 
