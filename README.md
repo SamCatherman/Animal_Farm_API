@@ -8,7 +8,7 @@ The default endpoint is `'/animals'`, with additional routes to `/animals/:id`, 
 
 ## To View Live:
 
-If you simply wish to practice fetching data and building out a front-end, you can find live version @ https://animal-farm-api.herokuapp.com/
+If you simply wish to practice fetching data and building out a front-end, you can find a live version @ https://animal-farm-api.herokuapp.com/
 
 ## To Run Locally:
 
