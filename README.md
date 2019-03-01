@@ -53,3 +53,6 @@ default: &default
 ```
 
 You can also pratice adding controller actions, validations, routes and new models to make the API more interesting.
+
+### Testing 
+To run the test suite, run `$ rails test`
